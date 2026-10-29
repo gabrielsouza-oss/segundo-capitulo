@@ -1,0 +1,2 @@
+Dois meses de nós — Su & Gabriel
+Extraia o ZIP e abra index.html no navegador. Mantenha a pasta assets junto do arquivo.
